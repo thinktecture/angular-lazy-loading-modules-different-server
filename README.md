@@ -1,4 +1,4 @@
-# Angular - Loading modules from different server (lazy loading)
+# Angular - Loading modules from server (lazy loading)
 
 This project demonstrates several ways to load multiple modules. 
 
